@@ -1,4 +1,4 @@
-# Monocular-Vision-Depth-Estimation-and-3D-Point-Cloud-Generation
+# Monocular-Vision-for-Depth-Estimation-and-3D-Point-Cloud-Generation
 
 This project demonstrates real-time depth estimation and 3D point cloud generation using the Depth Anything model, OpenCV, and Open3D. It captures frames from a video feed, estimates their depth, and generates 3D point clouds with bounding box analysis.
 
